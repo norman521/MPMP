@@ -15,7 +15,7 @@ number_empty = 0
 
 while number_empty != 1:
     tiles = []
-    total_rows = 11
+    total_rows = 4
 
     def generate_row(row_number):
         first_number_on_row = first_number_on_nth_row(row_number)
