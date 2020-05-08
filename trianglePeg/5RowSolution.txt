@@ -1,0 +1,13 @@
+empty: 13 start: 15 jumped tile: 14 end: 13
+empty: 13 start: 12 jumped tile: 13 end: 14
+empty: 13 start: 4 jumped tile: 8 end: 13
+empty: 13 start: 1 jumped tile: 2 end: 4
+empty: 13 start: 10 jumped tile: 9 end: 8
+empty: 13 start: 3 jumped tile: 6 end: 10
+empty: 13 start: 4 jumped tile: 5 end: 6
+empty: 13 start: 7 jumped tile: 8 end: 9
+empty: 13 start: 14 jumped tile: 13 end: 12
+empty: 13 start: 10 jumped tile: 6 end: 3
+empty: 13 start: 11 jumped tile: 12 end: 13
+empty: 13 start: 13 jumped tile: 9 end: 6
+empty: 13 start: 3 jumped tile: 6 end: 10

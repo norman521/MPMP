@@ -15,7 +15,7 @@ number_empty = 0
 
 while number_empty != 1:
     tiles = []
-    total_rows = 4
+    total_rows = 11
 
     def generate_row(row_number):
         first_number_on_row = first_number_on_nth_row(row_number)
@@ -124,7 +124,7 @@ while number_empty != 1:
     number_empty = len(tiles) - 1
     solution = []
     solution_printed = False
-    for x in range(100):
+    for x in range(150):
 
         potential_start_tiles = []
         for tile in tiles:

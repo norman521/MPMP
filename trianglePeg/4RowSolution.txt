@@ -1,0 +1,8 @@
+empty: 9 start: 7 jumped tile: 8 end: 9
+empty: 9 start: 2 jumped tile: 4 end: 7
+empty: 9 start: 10 jumped tile: 9 end: 8
+empty: 9 start: 3 jumped tile: 6 end: 10
+empty: 9 start: 7 jumped tile: 8 end: 9
+empty: 9 start: 10 jumped tile: 9 end: 8
+empty: 9 start: 8 jumped tile: 5 end: 3
+empty: 9 start: 1 jumped tile: 3 end: 6
